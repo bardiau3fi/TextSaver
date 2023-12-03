@@ -1,24 +1,24 @@
 A simple Text Saver Management App that helps you get things done. Built with Kotlin, it helps the user to add their task . They can delete the completed task or all added task as they wish
 
-Navigation Component
-Safe args
-Transition Animation
-ROOM Database
-CRUD operations
-Data binding
-Binding adapters
-RecyclerView
-Search database in RecyclerView
-Sort database in RecyclerView
-RecyclerView Animation
-LiveData
-ViewModel
-Repository
-Swipe to delete
-Undo - restore deleted data (from snackBar)
-DiffUtil
-Linear, Grid, Staggered Layout in RecyclerView
-Clean Architecture
+Navigation Component/
+Safe args/
+Transition Animation/
+ROOM Database/
+CRUD operations/
+Data binding/ 
+Binding adapters/ 
+RecyclerView/ 
+Search database in RecyclerView/ 
+Sort database in RecyclerView/ 
+RecyclerView Animation/ 
+LiveData/ 
+ViewModel/ 
+Repository/
+Swipe to delete/
+Undo - restore deleted data (use snackBar)/ 
+DiffUtil/ 
+Linear, Grid, Staggered Layout in RecyclerView/ 
+Clean Architecture/ 
 
 
 
